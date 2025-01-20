@@ -1,12 +1,15 @@
 Hi, I'm Rodrigo, welcome to my GitHub!
 
 ✔️ Full-stack developer
+
 🛠 Specialized in JavaScript, MySQL, React, Node.js
+
 👀 Always learning new stuff
+
 📑 Check out my full [porfolio](https://r0dmd.github.io/portfolio/) for more details on my projects and CV!
 
 Feel free to explore my repositories, contribute, or reach out!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-md/)
 
 ---
 
