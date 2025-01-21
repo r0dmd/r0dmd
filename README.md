@@ -6,9 +6,7 @@ Hi, I'm Rodrigo, welcome to my GitHub!
 
 👀 Always learning new stuff
 
-📑 Check out my full [portfolio](https://r0dmd.github.io/portfolio/) for more details on my projects and CV!
-
-🤝 [LinkedIn](https://www.linkedin.com/in/rodrigo-md/) anyone?
+📑 Check out my full [portfolio](https://r0dmd.github.io/portfolio/) for more details on my projects and CV
 
 Feel free to explore my repositories, contribute, or reach out to have a chat!
 
