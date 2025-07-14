@@ -2,7 +2,7 @@ Hi, I'm Rodrigo, welcome to my GitHub!
 
 ✔️ Full-stack developer
 
-🛠 Specialized in JavaScript, MySQL, React, Node.js
+🛠 Specialized in Java, Spring Boot, JavaScript/TypeScript, React, Express, Node.js, MySQL
 
 👀 Always learning new stuff
 
