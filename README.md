@@ -2,7 +2,7 @@ Hi, I'm Rodrigo, welcome to my GitHub!
 
 ✔️ Full-stack developer & sysadmin
 
-🛠 Specialized in C#, .NET, JavaScript/TypeScript, React, Node.js, SQL, Azure
+🛠 Specialized in C#, .NET, Java, Spring Boot, JavaScript/TypeScript, Node.js, React, Angular, SQL, Azure
 
 📑 Check out my [portfolio](https://r0dmd.github.io/portfolio/)
 
